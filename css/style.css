@@ -40,7 +40,7 @@
     margin-right: auto;
     background-color: grey;
     max-width: 1500px;
-    height: 700px;
+    height: 650px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap
@@ -51,6 +51,13 @@
     width: calc(100% / 7);
     height: calc(100% / 5);
     border: 1px solid black;
+}
+
+.monte-bianco {
+    height: 100%;
+    width: 100%;
+
+
 }
 
 
