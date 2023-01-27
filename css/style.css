@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/* regole generali pagina */
+
+
+#main-container-wh{
+    background-color: aqua;
+    display: inline-block;
+    height: 100vw;
+    width:100%;
+
+
+}
+
+
