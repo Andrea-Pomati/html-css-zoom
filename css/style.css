@@ -39,10 +39,17 @@
     margin-left: auto;
     margin-right: auto;
     background-color: grey;
-    max-width: 1700px;
+    width: 1500px;
     height: 700px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
 
-
+.img {
+    background-color: green;
+    width: calc(100% / 7);
+    height: calc(100% / 5);
 }
 
 
