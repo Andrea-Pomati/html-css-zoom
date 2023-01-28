@@ -130,7 +130,7 @@
 #left-icons{
     width: 200px;
     height: 100%;
-    background-color: aqua;
+    /* background-color: aqua; */
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -156,5 +156,26 @@
     color: white;
 }
 
+/* /sezione sinistra footer */
+
+
+
+
+
+#right-icons {
+    width: 200px;
+    height: 100%;
+    background-color: lightgrey;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#end-meeting{
+    display: flex;
+    align-items: center;
+}
 
 
