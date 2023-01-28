@@ -123,6 +123,8 @@
     height: 100px;
     width: 100%;
     background-color: #222222;
+    display: flex;
+    justify-content: space-between;
 }
 
 
@@ -136,6 +138,7 @@
     align-items: center;
     gap: 20px;
     padding-left: 5px;
+
 }
 
 
@@ -159,13 +162,37 @@
 /* /sezione sinistra footer */
 
 
+#center-icons {
+    width: 600px;
+    height: 100%;
+    /* background-color:aqua; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    padding-left: 5px;
+    justify-content: space-around;
+}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+/* sezione destra */
 
 #right-icons {
     width: 200px;
     height: 100%;
-    background-color: lightgrey;
+    background-color: rgb(100, 100, 100);
     color: red;
     display: flex;
     justify-content: center;
